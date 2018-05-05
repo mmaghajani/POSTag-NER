@@ -1,5 +1,5 @@
 from nltk.tag import hmm
-import pprint
+
 train = list()
 sequence = list()
 cnt = 0
